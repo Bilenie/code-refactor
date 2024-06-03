@@ -10,7 +10,7 @@
     -I consolidated the css rule by following DRY.
     -I updated the code on HTML by adding semantic attribute.
     -I describe the images by adding alt attribute.
-    -I orgnize the HTML code following the general rule on how to follow format on HTML.
+    -I orgnize the HTML code following the general rule of HTML.
     -I added and updated CSS rule on the CSS file.
 
 ##Table of content
