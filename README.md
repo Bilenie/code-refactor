@@ -12,6 +12,7 @@
     -I describe the images by adding alt attribute.
     -I orgnize the HTML code following the general rule of HTML.
     -I added and updated CSS rule on the CSS file.
+    -I added a comment to describe what I did on bothe HTML & CSS file.
 
 ##Table of content
 
