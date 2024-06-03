@@ -1,6 +1,6 @@
-/* I consolidated the repeated rules and assign it same name class and updated to the html file. 
-   I changed the order of the rule to match with the html formate, following the top-bottom structure of the html file,
-   I added a rule so that the webpage will match the mock Webpage. */
+/* I consolidated the repeated rules, and assign same name "class". Then updated to the html file. 
+   I changed the order of the rules to match with the html format, following top-bottom structure of the html file.
+   I added a some rules, so that the Webpage will match the mock Webpage. */
    * {
     box-sizing: border-box;
     padding: 0 0 0 0;
