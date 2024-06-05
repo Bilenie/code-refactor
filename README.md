@@ -13,6 +13,7 @@
     -I orgnize the HTML code following the general rule of HTML.
     -I added and updated CSS rule on the CSS file.
     -I added a comment to describe what I did on bothe HTML & CSS file.
+    
 
 ##Table of content
 
@@ -24,8 +25,8 @@ N/A
 
 ##Usage
   - Open the deployed URL into web- browser.
-  - Open the git URL to see the repo.
-
+  - Open the git URL to see the repo. 
+![The webpage should look like this when opened](/code-refactor-image.jpg)
 
 ##Credit
 
