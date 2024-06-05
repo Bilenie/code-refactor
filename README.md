@@ -26,7 +26,8 @@ N/A
 ##Usage
   - Open the deployed URL into web- browser.
   - Open the git URL to see the repo. 
-![The webpage should look like this when opened](/code-refactor-image.jpg)
+![alt text](/code-refactor-image.jpg)
+  - The deployed web page should look like the above img.
 
 ##Credit
 
