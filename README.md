@@ -24,9 +24,9 @@ N/A
 N/A
 
 ##Usage
-  - Open the deployed URL into web- browser. "
+  - Open the deployed URL into web- browser. "https://bilenie.github.io/code-refactor/"
   - Open the git URL to see the repo. " https://github.com/Bilenie/code-refactor.git "
-![alt text](./Develop/assets/images/code-refactor-image.jpg)
+![alt text](./assets/images/code-refactor-image.jpg)
   - The deployed web page should look like the above img.
 
 ##Credit
