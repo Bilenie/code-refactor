@@ -31,7 +31,7 @@ N/A
 
 ##Credit
 
-  - Thanks to my SSA,Instructor/TA, and class mate for helping.
+  - Thanks to my SSA,Instructor,TA, and class mate for helping.
   - Recieved a feed back and was able to debug.
 
 ##License
