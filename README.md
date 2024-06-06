@@ -5,14 +5,14 @@
 
 -I did the project to see my progress and what I learned so far in learning HTML and CSS.
 
--By following the Acceptance Criteria , 
+-By following the Acceptance Criteria, 
 
-    -I consolidated the css rule by following DRY.
-    -I updated the code on HTML by adding semantic attribute.
-    -I describe the images by adding alt attribute.
-    -I orgnize the HTML code following the general rule of HTML.
-    -I added and updated CSS rule on the CSS file.
-    -I added a comment to describe what I did on both HTML & CSS file.
+    -I consolidated the CSS rule by following DRY.
+    -I updated the code in the HTML ffile by adding semantic attribute.
+    -I describe the images by adding an alt attribute.
+    -I organize the HTML code following the general HTML/Semantic HTML rule.
+    -I changed the selector name on the CSS file and matched the name of the class in HTML.
+    -I added a comment to describe what I did on both HTML & CSS files.
     
 
 ##Table of content
@@ -24,15 +24,15 @@ N/A
 N/A
 
 ##Usage
-  - Open the deployed URL into web- browser. "https://bilenie.github.io/code-refactor/"
+  - Open the deployed URL in the web browser. "https://bilenie.github.io/code-refactor/"
   - Open the git URL to see the repo. " https://github.com/Bilenie/code-refactor.git "
 ![alt text](./assets/images/code-refactor-image.jpg)
-  - The deployed web page should look like the above img.
+  - The deployed web page should look like the above image.
 
 ##Credit
 
-  - Thanks to my SSA, Instructor, TA, and class mate for helping.
-  - Recieved a feed back and was able to debug.
+  - Thanks to my SSA, Instructor, TA, and classmate for helping.
+  - Received feedback and was able to debug.
 
 ##License
 
