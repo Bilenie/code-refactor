@@ -7,8 +7,7 @@
 
 -By following the Acceptance Criteria, 
 
-    -I consolidated the CSS rule by following DRY.
-    -I updated the code in the HTML file by adding semantic attribute.
+    -I consolidated the CSS rule by following DRY(Don't Repeat Yourself).
     -I describe the images by adding an alt attributes.
     -I organize the HTML code following the general HTML/Semantic HTML rule.
     -I changed the selector name on the CSS file and matched the name of the class in HTML.
